@@ -1,1 +1,1 @@
-# python-with-copilot
+# python-demo
